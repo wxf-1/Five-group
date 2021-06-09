@@ -1,0 +1,90 @@
+.AddPost{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+}
+.bnt{
+    margin-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    height: 70px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    span{
+        height: 40px;
+        button{
+            height: 40px;
+            line-height: 10px;
+            margin-top: 6px;
+            margin-right: 10px;
+            font-size: 15px;
+        }
+    }
+    h3{
+        height: 20px;
+        font-weight: 900;
+        font-size: 20px;
+        border-left: 3px solid #679cf6;
+        padding-left: 20px;
+        margin-top: 15px;
+        margin-left: 25px;
+    }
+    margin-bottom: 20px;
+}
+.mains{
+    width: 80%;
+    height: 700px;
+    margin: 0 auto;
+    background-color: #fff;
+    .jibenxinxi{
+        width: 100%;
+        height: 80px;
+        display: flex;
+        // justify-content: space-around;
+        justify-content: space-evenly;
+        .selectmajor{
+            width: 200px;
+        }
+    }
+    .fom{      
+        margin-left: 50px;
+        .formitem{
+            width: 100%;
+            margin-bottom: 0;
+            border-bottom: 1px solid black;
+            :global(.ant-form-item-label) {
+                display: inline-block;
+                flex-grow: 0;
+                overflow: hidden;
+                white-space: nowrap;
+                text-align: right;
+                vertical-align: middle;
+                width: 240px;
+            }
+            :global(label){
+                width: 100%;
+                height: 150px;
+                background-color: #c5d0de;
+                padding-left: 100px;
+            }
+        }
+        :global(input){
+            width: 100%;
+            height: 150px;
+        }
+    }
+    .bcun{
+        float: right;
+        margin-top: -60px;
+        font-size: 16px;
+    }
+    h3{
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 2px solid #ccc;
+        font-size: 20px;
+        border-left: 3px solid #679cf6;
+        padding-left: 20px;
+    }
+}

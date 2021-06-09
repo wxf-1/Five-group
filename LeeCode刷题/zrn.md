@@ -1,0 +1,58 @@
+# 张茹楠
+## 6.8
+   - [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)
+   - [目标和](https://leetcode-cn.com/problems/target-sum/)
+## 6.7
+   - [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
+   - [找不同](https://leetcode-cn.com/problems/find-the-difference/)
+## 6.6
+   - [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
+   - [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)
+## 6.4
+   - [相对名次](https://leetcode-cn.com/problems/relative-ranks/)
+   - [ 完美数](https://leetcode-cn.com/problems/perfect-number/)
+## 6.3
+   - [第 N 位数字](https://leetcode-cn.com/problems/nth-digit/)
+   - [最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/)
+## 6.2
+   - [排列硬币](https://leetcode-cn.com/problems/arranging-coins/)
+   - [字符串相加](https://leetcode-cn.com/problems/add-strings/)
+## 6.1
+   - [删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)
+   - [丢失的数字](https://leetcode-cn.com/problems/missing-number/)
+## 5.31
+   - [连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)
+   - [有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/)
+## 5.30
+   - [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
+   - [移除元素](https://leetcode-cn.com/problems/remove-element/)
+## 5.28
+   - [后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
+   - [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+## 5.27
+   - [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+   - [字符串转换整数](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+## 5.26
+   - [组合总和](https://leetcode-cn.com/problems/combination-sum/)
+   - [删除有效数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+## 5.25
+   - [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)\
+   - [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  
+## 5.24
+   - [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) 
+   - [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+## 5.23
+   - [加一](https://leetcode-cn.com/problems/plus-one/)
+   - [罗马转整数](https://leetcode-cn.com/problems/)roman-to-integer/v)
+## 5.21
+   - [合并两个有序链表](https://leetcode-cnmerge-two-sorted-lists/)
+   - [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+## 5.20
+   - [整数翻转](https://leetcode-cn.com/problems/reverse-integer/)
+   - [回文数](https://leetcode-cn.com/problems/palindrome-number/)
+## 5.19 
+   - [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+   - [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+## 5.18
+   - [将字母、数字插入指定位置](https://leetcode-cn.com/problems/search-insert-position/) 
+   - [两数之和](https://leetcode-cn.com/problems/two-sum/)

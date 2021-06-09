@@ -1,0 +1,104 @@
+/*
+ * @Author: Yuanshuqin 
+ * @Date: 2021-05-31 15:35:28 
+ * @Last Modified by:   Yuanshuqin 
+ * @Last Modified time: 2021-05-31 15:35:28 
+ */
+.Defence {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f3f6;
+  .header {
+    width: 100%;
+    height: 50px;
+    background-color: #e6ebf7;
+    line-height: 50px;
+    font-size: 16px;
+    a {
+      margin: 10px;
+      color: #000;
+    }
+  }
+  .mainTop {
+    width: 85%;
+    margin: 0 auto;
+    height: 260px;
+    background-color: #fff;
+    margin-bottom: 30px;
+  }
+  .major{
+    display: flex;
+    font-size: 14px;
+
+    & > span {
+      display: inline-block;
+      width: 10%;
+      margin: 5px 0px;
+    }
+    ul {
+      .span {
+        padding: 5px 10px;
+        margin: 10px;
+        display: inline-block;
+      }
+      .span:hover{
+        background-color: #679cf6;
+        border-radius: 20px;
+        color: #fff;
+        transition:background-color  1s;
+
+      }
+    }
+  }
+  .majorStatus{
+    display: flex;
+    font-size: 14px;
+
+    & > span {
+      display: inline-block;
+      width: 10%;
+      margin: 5px 0px;
+    }
+    ul {
+      .spanStatus {
+        padding: 5px 10px;
+        margin: 10px;
+        display: inline-block;
+      }
+      .spanStatus:hover{
+        background-color: #679cf6;
+        border-radius: 20px;
+        color: #fff;
+        transition:background-color  1s;
+      }
+    }
+  }
+  .majorTable{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    width: 85%;
+    margin: 0 auto;
+    .search{
+      display: flex;
+      align-self: flex-end;
+      background-color: #fff;
+      margin: 20px 0;
+      button{
+        height: 38px;
+        border-radius: 5px;
+        font-size: 15px;
+        margin: 0 10px;
+      }
+    }
+  }
+}
+.active {
+    background-color: #679cf6;
+    border-radius: 20px;
+    color: #ffffff;
+    padding: 5px 10px;
+    margin: 20px;
+  }

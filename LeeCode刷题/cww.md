@@ -1,0 +1,61 @@
+# 陈旺旺
+## 6.8
+   - [棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+   - [不用加号的加法](https://leetcode-cn.com/problems/add-without-plus-lcci/)
+## 6.7
+   - [面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/)
+   - [完美数](https://leetcode-cn.com/problems/perfect-number/)
+## 6.6
+   - [拆炸弹](https://leetcode-cn.com/problems/defuse-the-bomb/)
+   - [快乐数](https://leetcode-cn.com/problems/happy-number/)
+## 6.4
+   - [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+   - [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+## 6.3
+   - [商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+   - [找不同](https://leetcode-cn.com/problems/find-the-difference/)
+## 6.2
+   - [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/)
+   - [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+## 6.1
+   - [统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/)
+   - [数组递增](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing/)
+## 5.31
+   - [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+   - [统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/)
+## 5.30
+   - [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+   - [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)
+## 5.28
+   - [写给前端的跨平台方案、跨端引擎的本质](https://juejin.cn/post/6966626823912308772)
+   - [讲一讲原型和原型链](https://juejin.cn/post/6967171082058989599)
+## 5.27
+   - [合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+   - [二进制刷题](https://leetcode-cn.com/problems/add-binary/) 
+## 5.26
+   - [合并两个有序链表](https://leetcode-cnmerge-two-sorted-lists/)
+   - [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+## 5.25
+   - [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle)
+   - [二叉树最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+## 5.24
+   - [矩形区域](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+   - [将数据流变成多个不交互区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/)
+## 5.23
+   - [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)
+   - [除法求值](https://leetcode-cn.com/problems/evaluate-division/)
+## 5.22
+   - [重复字符串的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+   - [合并数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+##  5.21
+   - [不同路径](https://leetcode-cn.com/problems/unique-paths/)
+   - [找不同](https://leetcode-cn.com/problems/find-the-difference/)
+##  5.20
+   - [删除获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
+   - [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+##  5.19 
+   - [算法题](https://leetcode-cn.com/problems/palindrome-number/)
+   - [组合](https://leetcode-cn.com/problems/combinations/)
+##  5.18
+   - [格雷编码](https://leetcode-cn.com/problems/gray-code/)
+   - [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)

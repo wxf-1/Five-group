@@ -1,0 +1,57 @@
+- 6.8
+  - [早餐组合](https://leetcode-cn.com/problems/2vYnGI/)
+  - [对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
+- 6.7
+  - [插入后的最大值](https://leetcode-cn.com/problems/maximum-value-after-insertion/)
+  - [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
+- 6.6
+  - [正则表达式匹配 ](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)
+  - [唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)
+- 6.4
+  - [1~n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)
+  - [青蛙跳台阶的问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+- 6.3
+  - [转变日期格式](https://leetcode-cn.com/problems/reformat-date/)
+  - [汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/)
+- 6.2
+  - [最大得分](https://leetcode-cn.com/problems/get-the-maximum-score/)
+  - [存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds/)
+- 6.1
+  - [单词转换](https://leetcode-cn.com/problems/word-transformer-lcci/)
+  - [2出现的次数](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci/)
+- 5.31
+  - [回文排列](https://leetcode-cn.com/problems/palindrome-permutation-lcci/)
+  - [最长单词](https://leetcode-cn.com/problems/longest-word-lcci/)
+- 5.30
+  - [连续字符](https://leetcode-cn.com/problems/consecutive-characters/)
+  - [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/)
+- 5.28
+  - [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning-iii/)
+  - [6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number/)
+- 5.27
+  - [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/)
+  - [猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse/)
+- 5.26
+  - [不含连续 1 的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)
+  - [设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
+- 5.25
+  - [单词替换](https://leetcode-cn.com/problems/replace-words/)
+  - [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)
+- 5.24
+  - [四数相加](https://leetcode-cn.com/problems/4sum-ii/)
+  - [分糖果](https://leetcode-cn.com/problems/distribute-candies/)
+- 5.23
+  - [零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+  - [3 的幂](https://leetcode-cn.com/problems/power-of-three/)
+- 5.21
+  - [各位相加](https://leetcode-cn.com/problems/add-digits/)
+  - [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+- 5.20
+  - [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+  - [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+- 5.19
+  - [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+  - [验证回文字符串](https://leetcode-cn.com/problems/valid-palindrome/)
+- 5.18
+   - [拆分单词](https://leetcode-cn.com/leetbook/read/top-interview-questions/xa503c/ '拆分单词')
+   - [反转字符串](https://leetcode-cn.com/leetbook/read/top-interview-questions/xapbdt/)
